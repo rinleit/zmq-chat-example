@@ -1,7 +1,8 @@
 # zmq-chat-example
+![ZMQ](0mq.png)
 * SocketType:  REQ - ROUTER -DEALER -  PUB - SUB
 * Environment: python 2.7
-## Install Lib
+## Install lib requirement
 ```
 $ pip install -r requirement.txt 
 ```
